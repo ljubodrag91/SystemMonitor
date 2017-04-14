@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MonitorTests]">
+  <test name="TestAll(failed)">
+    <classes>
+      <class name="com.main.MainNGTest">
+        <methods>
+          <include name="tearDownClass"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.main.MainNGTest -->
+      <class name="com.system_resources.CPU_InfoNGTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+          <include name="testGetProcessCpuLoad"/>
+        </methods>
+      </class> <!-- com.system_resources.CPU_InfoNGTest -->
+      <class name="com.system_resources.DISK_InfoNGTest">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.system_resources.DISK_InfoNGTest -->
+      <class name="com.misc.SetIconNGTest">
+        <methods>
+          <include name="tearDownClass"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.misc.SetIconNGTest -->
+      <class name="com.system_resources.RAM_InfoNGTest">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDownMethod"/>
+          <include name="tearDownClass"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.system_resources.RAM_InfoNGTest -->
+      <class name="com.misc.CustomPanelNGTest">
+        <methods>
+          <include name="tearDownClass"/>
+          <include name="tearDownMethod"/>
+          <include name="setUpClass"/>
+          <include name="setUpMethod"/>
+        </methods>
+      </class> <!-- com.misc.CustomPanelNGTest -->
+      <class name="com.misc.SystemInfoNGTest">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="tearDownClass"/>
+          <include name="setUpMethod"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.misc.SystemInfoNGTest -->
+    </classes>
+  </test> <!-- TestAll(failed) -->
+</suite> <!-- Failed suite [MonitorTests] -->

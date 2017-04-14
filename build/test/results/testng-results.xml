@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MonitorTests" duration-ms="466" started-at="2017-04-14T17:33:12Z" finished-at="2017-04-14T17:33:13Z">
+    <groups>
+    </groups>
+    <test name="TestAll" duration-ms="466" started-at="2017-04-14T17:33:12Z" finished-at="2017-04-14T17:33:13Z">
+      <class name="com.system_resources.RAM_InfoNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.system_resources.RAM_InfoNGTest@22a71081]" name="setUpClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.system_resources.RAM_InfoNGTest@22a71081]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testGetRamPercentUsage()[pri:0, instance:com.system_resources.RAM_InfoNGTest@22a71081]" name="testGetRamPercentUsage" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRamPercentUsage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.system_resources.RAM_InfoNGTest@22a71081]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.system_resources.RAM_InfoNGTest@22a71081]" name="tearDownClass" is-config="true" duration-ms="15" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.system_resources.RAM_InfoNGTest -->
+      <class name="com.misc.SetIconNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.misc.SetIconNGTest@2d6a9952]" name="setUpClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SetIconNGTest@2d6a9952]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testSetIcon()[pri:0, instance:com.misc.SetIconNGTest@2d6a9952]" name="testSetIcon" duration-ms="3" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetIcon -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SetIconNGTest@2d6a9952]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.misc.SetIconNGTest@2d6a9952]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.misc.SetIconNGTest -->
+      <class name="com.main.MainNGTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.main.MainNGTest@de0a01f]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.main.MainNGTest@de0a01f]" name="setUpClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testMain()[pri:0, instance:com.main.MainNGTest@de0a01f]" name="testMain" duration-ms="246" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMain -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.main.MainNGTest@de0a01f]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.main.MainNGTest@de0a01f]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.main.MainNGTest -->
+      <class name="com.misc.CustomPanelNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.misc.CustomPanelNGTest@3930015a]" name="setUpClass" is-config="true" duration-ms="10" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testUpdateProgress()[pri:0, instance:com.misc.CustomPanelNGTest@3930015a]" name="testUpdateProgress" duration-ms="137" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateProgress -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.CustomPanelNGTest@3930015a]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.CustomPanelNGTest@3930015a]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.misc.CustomPanelNGTest@3930015a]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:12Z" finished-at="2017-04-14T19:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.misc.CustomPanelNGTest -->
+      <class name="com.system_resources.DISK_InfoNGTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.system_resources.DISK_InfoNGTest@3ac42916]" name="setUpClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testGetDiskPercentUsage()[pri:0, instance:com.system_resources.DISK_InfoNGTest@3ac42916]" name="testGetDiskPercentUsage" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetDiskPercentUsage -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.system_resources.DISK_InfoNGTest@3ac42916]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.system_resources.DISK_InfoNGTest@3ac42916]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.system_resources.DISK_InfoNGTest@3ac42916]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.system_resources.DISK_InfoNGTest -->
+      <class name="com.misc.SystemInfoNGTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="testGetRealArchWindows()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="testGetRealArchWindows" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRealArchWindows -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testOSname()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="testOSname" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOSname -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testOSversion()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="testOSversion" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOSversion -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpMethod" is-config="true" duration-ms="3" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testOsArch()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="testOsArch" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOsArch -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="testTotalMem()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="testTotalMem" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTotalMem -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testUsedMem()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="testUsedMem" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsedMem -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.misc.SystemInfoNGTest@629f0666]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2017-04-14T19:33:13Z" finished-at="2017-04-14T19:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.misc.SystemInfoNGTest -->
+    </test> <!-- TestAll -->
+  </suite> <!-- MonitorTests -->
+</testng-results>
